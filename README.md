@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a PhD student at the University of Tübingen in the Department of Soil Science and Geomorphology. My research focuses on applying robust deep learning models to soil erosion studies, including segmenting soil erosion traces from aerial imagery, modeling soil erosion processes, and forecasting future soil erosion trends.
+I am a Soil Scientist at the University of Tübingen, Germany, combining deep learning and remote sensing to model soil and environmental processes in agriculture. I work with UAV imagery, multi-spectral data, and advanced computational methods to support precision agriculture and sustainable land management. I am proficient in deep learning, Python, and spatial data analysis, and I enjoy turning complex data into practical insights.
+
+
 
 
 ## 🌐 Socials:

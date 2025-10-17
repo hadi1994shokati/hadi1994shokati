@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a Soil Scientist at the University of Tübingen, Germany, **combining deep learning and remote sensing** to model **soil and environmental processes** in agriculture. I work with **UAV imagery, multi-spectral data, and advanced computational methods** to support **precision agriculture and sustainable land management**. 
+I am a **Soil Scientist** at the **University of Tübingen, Germany**, where I combine **deep learning and remote sensing** to model **soil and environmental processes in agricultural systems**. With experience in **UAV photogrammetry, computer vision, and spatial data processing**, I’m passionate about applying **data-driven approaches** to address challenges in **agricultural, environmental, and land monitoring** applications.
+
+
 
 
 
